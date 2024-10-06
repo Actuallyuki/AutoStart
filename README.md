@@ -1,7 +1,7 @@
 # AutoStart
 
 ## What is AutoStart?
-AutoStart is a plugin that automatically starts a title ID of your choice.
+AutoStart is a plugin for the Wii U Aroma environment that automatically starts a title ID of your choice.
 
 ## How do I use it?
 1. Create a folder in `sd:/wiiu` and call it `AutoStart`.
